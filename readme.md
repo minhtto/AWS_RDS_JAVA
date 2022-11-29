@@ -8,4 +8,5 @@ Change the database connectivity in com.websystique.springmvc.dao.ConnectionDao
 
 Test local MinhTTo
 Day 2
+Day 3
 
