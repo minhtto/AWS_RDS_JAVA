@@ -7,4 +7,5 @@ it will download all the require jars and you are good to go.
 Change the database connectivity in com.websystique.springmvc.dao.ConnectionDao
 
 Test local MinhTTo
+Day 2
 
